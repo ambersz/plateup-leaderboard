@@ -1,5 +1,10 @@
 export default (config, env, helpers) => {
-  config.output.publicPath = '/plateup-leaderboard/';
+  if (!env.production) {
+    console.log('dev')
+    config.output.publicPath = '/';
+  } else {
+    config.output.publicPath = '/plateup-leaderboard/';
+  }
 
   // use the public path in your app as 'process.env.PUBLIC_PATH'
   config.plugins.push(
