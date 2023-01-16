@@ -8862,8 +8862,14 @@ var Home = function Home() {
     data: processedRuns,
     columns: columnDefs,
     getCoreRowModel: Object(_tanstack_react_table__WEBPACK_IMPORTED_MODULE_6__[/* getCoreRowModel */ "c"])(),
-    getSortedRowModel: Object(_tanstack_react_table__WEBPACK_IMPORTED_MODULE_6__[/* getSortedRowModel */ "e"])(),
-    getFilteredRowModel: Object(_tanstack_react_table__WEBPACK_IMPORTED_MODULE_6__[/* getFilteredRowModel */ "d"])()
+    getSortedRowModel: Object(_tanstack_react_table__WEBPACK_IMPORTED_MODULE_6__[/* getSortedRowModel */ "d"])(),
+    // getFilteredRowModel: getFilteredRowModel(),
+    initialState: {
+      sorting: [{
+        id: 'time_adj',
+        desc: false
+      }]
+    }
   });
   return Object(preact__WEBPACK_IMPORTED_MODULE_2__["h"])("div", {
     class: _style_css__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"].home
@@ -9648,10 +9654,10 @@ function useReactTable(options) {
 /* unused harmony export getFacetedMinMaxValues */
 /* unused harmony export getFacetedRowModel */
 /* unused harmony export getFacetedUniqueValues */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return getFilteredRowModel; });
+/* unused harmony export getFilteredRowModel */
 /* unused harmony export getGroupedRowModel */
 /* unused harmony export getPaginationRowModel */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return getSortedRowModel; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return getSortedRowModel; });
 /* unused harmony export isFunction */
 /* unused harmony export isRowSelected */
 /* unused harmony export isSubRowSelected */
