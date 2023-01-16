@@ -1,0 +1,119 @@
+:root {
+	font-family: 'Helvetica Neue', arial, sans-serif;
+	font-weight: 400;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+
+	color-scheme: light dark;
+	color: #444;
+	background: #fafafa;
+	--bg-color: 250,250,250;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		color: #fff;
+		background: #1c1c1c;
+		--bg-color: 28,28,28;
+	}
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	min-height: 100vh;
+}
+
+#app > main {
+	display: -ms-flexbox;
+	display: flex;
+	padding-top: 3.5rem;
+	margin: 0 auto;
+	min-height: calc(100vh - 3.5rem);
+	max-width: 1280px;
+	-ms-flex-align: center;
+	    align-items: center;
+	-ms-flex-pack: center;
+	    justify-content: center;
+}
+
+@media (max-width: 639px) {
+	#app > main {
+		margin: 0 2rem;
+	}
+}
+
+.home__uRcqa {
+	text-align: center;
+}
+
+.home__uRcqa img {
+	padding: 1.5rem;
+}
+
+.home__uRcqa img:hover {
+	-webkit-filter: drop-shadow(0 0 3rem #673ab888);
+	        filter: drop-shadow(0 0 3rem #673ab888);
+}
+
+.home__uRcqa section {
+	margin-top: 10rem;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	-webkit-column-gap: 1.5rem;
+	        column-gap: 1.5rem;
+}
+
+@media (max-width: 639px) {
+	.home__uRcqa section {
+		margin-top: 5rem;
+		grid-template-columns: 1fr;
+		row-gap: 1rem;
+	}
+}
+
+.resource__reFLt {
+	padding: 0.75rem 1.5rem;
+	border-radius: 0.5rem;
+	text-align: left;
+	text-decoration: none;
+	color: #000;
+	background-color: #f1f1f1;
+	border: 1px solid transparent;
+}
+
+.resource__reFLt:hover {
+	border: 1px solid #000;
+	box-shadow: 0 25px 50px -12px #673ab888;
+}
+
+@media (prefers-color-scheme: dark) {
+	.resource__reFLt {
+		color: #fff;
+		background-color: #181818;
+	}
+	.resource__reFLt:hover {
+		border: 1px solid #bbb;
+		box-shadow: 0 25px 50px -12px #673ab888;
+	}
+}
+
+
+table {
+	position: relative;
+}
+
+th {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0px;
+	/* padding:20px; */
+	background-color: rgba(var(--bg-color), .8);
+	box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4);
+}
+
+.cursor-pointer__b9crC.select-none__9PhKr {
+  padding: 20px;
+}
+
+/*# sourceMappingURL=ssr-bundle.f5b78.css.map*/
