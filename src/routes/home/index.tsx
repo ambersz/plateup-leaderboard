@@ -4,6 +4,7 @@ import { useEffect, useState } from 'preact/hooks';
 import { h } from 'preact';
 import style from './style.css';
 import { Duration, DateTime } from 'luxon';
+import cachedProcessedRuns from '../../cachedProcessedRuns.json';
 import {
 	useReactTable,
 	createColumnHelper,
@@ -141,9 +142,10 @@ const columnDefs = [
 ];
 
 const Home = () => {
-	const [processedRuns, setProcessedRuns] = useState([]);
+	const [processedRuns, setProcessedRuns] = useState(cachedProcessedRuns);
 	useEffect(() => {
 		processData().then(({ processedRuns }) => {
+			console.log(JSON.stringify(processedRuns));
 			setProcessedRuns(processedRuns);
 		});
 	}, []);
@@ -153,7 +155,10 @@ const Home = () => {
 		columns: columnDefs,
 		getCoreRowModel: getCoreRowModel(),
 		getSortedRowModel: getSortedRowModel(),
-		getFilteredRowModel: getFilteredRowModel(),
+		// getFilteredRowModel: getFilteredRowModel(),
+		initialState: {
+			sorting: [{ id: 'time_adj', desc: false }],
+		},
 	});
 	return (
 		<div class={style.home}>

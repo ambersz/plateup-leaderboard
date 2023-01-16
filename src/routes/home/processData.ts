@@ -124,8 +124,9 @@ async function processData() {
 					place: formatOrdinals(place),
 					players: players.map((p) => ({
 						url:
-							p.rel === 'user' &&
-							`https://www.speedrun.com/user/${players[p.id]}`,
+							p.rel === 'user'
+								? `https://www.speedrun.com/user/${playersIDtoName[p.id]}`
+								: null,
 						name: p.name ?? playersIDtoName[p.id],
 					})),
 					weblink,

@@ -1,0 +1,2694 @@
+[
+	{
+		"place": "1st",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/Shawthing", "name": "Shawthing" },
+			{
+				"url": "https://www.speedrun.com/user/CaramelBob",
+				"name": "CaramelBob"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/y9xgwwry",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.81wygg5q-wlekw94l.p127nnkq",
+		"time_adj": 907.944075,
+		"time_adj_s": "00:15:07.944",
+		"time": 1256.67,
+		"time_s": "PT20M56.670S",
+		"verifyDate": "2022-11-06T14:48:08Z",
+		"dishReduction": -2,
+		"videoUrl": "https://www.youtube.com/watch?v=UjgA4iQST_g",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Burgers",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "AZPGX2OJ",
+		"p855yjv8": "1.1.0"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/pjmangopie",
+				"name": "pjmangopie"
+			},
+			{ "url": "https://www.speedrun.com/user/vexicra", "name": "vexicra" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/yd1o7gwy",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.81wygg5q-wlekw94l.p127nnkq",
+		"time_adj": 910.2199499999999,
+		"time_adj_s": "00:15:10.219",
+		"time": 1259.82,
+		"time_s": "PT20M59.820S",
+		"verifyDate": "2022-10-31T05:24:11Z",
+		"dishReduction": -2,
+		"videoUrl": "https://youtu.be/2IUhove2obo",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Burgers",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "AZ1UZQSZ",
+		"p855yjv8": "1.1.0"
+	},
+	{
+		"place": "3rd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/pjmangopie",
+				"name": "pjmangopie"
+			},
+			{ "url": "https://www.speedrun.com/user/vexicra", "name": "vexicra" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/y8xn705m",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.81wygg5q-wlekw94l.p127nnkq",
+		"time_adj": 1041.519875,
+		"time_adj_s": "00:17:21.519",
+		"time": 1441.55,
+		"time_s": "PT24M1.550S",
+		"verifyDate": "2022-10-31T05:24:16Z",
+		"dishReduction": -2,
+		"videoUrl": "https://youtu.be/92EgKjnWQGg",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Burgers",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "YOGSCAST",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/pjmangopie",
+				"name": "pjmangopie"
+			},
+			{ "url": "https://www.speedrun.com/user/vexicra", "name": "vexicra" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/yl12erxm",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.5lejooz1-wlekw94l.p127nnkq",
+		"time_adj": 1064.48,
+		"time_adj_s": "00:17:44.480",
+		"time": 1064.48,
+		"time_s": "PT17M44.480S",
+		"verifyDate": "2022-11-04T01:36:01Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.twitch.tv/videos/1642399210",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Pizza",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "AZ56HIWX",
+		"p855yjv8": "1.1.0"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/CaramelBob",
+				"name": "CaramelBob"
+			},
+			{ "url": "https://www.speedrun.com/user/Shawthing", "name": "Shawthing" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/y9xewkky",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.5lejooz1-wlekw94l.p127nnkq",
+		"time_adj": 1133.45,
+		"time_adj_s": "00:18:53.450",
+		"time": 1133.45,
+		"time_s": "PT18M53.450S",
+		"verifyDate": "2022-10-23T21:23:57Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.youtube.com/watch?v=moWbv77stVw",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Pizza",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "522",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/pjmangopie",
+				"name": "pjmangopie"
+			},
+			{ "url": "https://www.speedrun.com/user/vexicra", "name": "vexicra" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/y8097oxm",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.rqv877w1-wlekw94l.p127nnkq",
+		"time_adj": 1170.270588235294,
+		"time_adj_s": "00:19:30.270",
+		"time": 994.73,
+		"time_s": "PT16M34.730S",
+		"verifyDate": "2022-12-17T10:31:16Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.twitch.tv/videos/1681294602",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Pies",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "AZ9K2BA1",
+		"p855yjv8": "1.1.1",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/zzumiess", "name": "zzumiess" },
+			{ "url": "https://www.speedrun.com/user/spectater", "name": "spectater" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/zxngj8gm",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.jqz3yeg1-wlekw94l.p127nnkq",
+		"time_adj": 1181.270588235294,
+		"time_adj_s": "00:19:41.270",
+		"time": 1004.08,
+		"time_s": "PT16M44.080S",
+		"verifyDate": "2023-01-16T11:41:41Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.youtube.com/watch?v=9kA3moeRUk4",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Turkey",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "AZKLSCY8",
+		"p855yjv8": "1.1.2",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "3rd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/pjmangopie",
+				"name": "pjmangopie"
+			},
+			{ "url": "https://www.speedrun.com/user/vexicra", "name": "vexicra" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/znq28w3z",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.5lejooz1-wlekw94l.p127nnkq",
+		"time_adj": 1182.51,
+		"time_adj_s": "00:19:42.510",
+		"time": 1182.51,
+		"time_s": "PT19M42.510S",
+		"verifyDate": "2022-10-01T04:39:32Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.youtube.com/watch?v=8y4Nt3p_-d8&ab_channel=pjmangopie",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Pizza",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "522",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/CaramelBob",
+				"name": "CaramelBob"
+			},
+			{ "url": "https://www.speedrun.com/user/Shawthing", "name": "Shawthing" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/zx8x59km",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.rqv877w1-wlekw94l.p127nnkq",
+		"time_adj": 1191.729411764706,
+		"time_adj_s": "00:19:51.729",
+		"time": 1012.97,
+		"time_s": "PT16M52.970S",
+		"verifyDate": "2022-10-10T09:48:00Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.youtube.com/watch?v=i5vh58HU5zQ",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Pies",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "BIGLEZ",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/Imanex", "name": "Imanex" },
+			{ "url": "https://www.speedrun.com/user/blacenrat", "name": "blacenrat" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/yol901dy",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.4lxnzzr1-wlekw94l.p127nnkq",
+		"time_adj": 1193.12,
+		"time_adj_s": "00:19:53.120",
+		"time": 1193.12,
+		"time_s": "PT19M53.120S",
+		"verifyDate": "2023-01-11T03:47:35Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.youtube.com/playlist?list=PLkANXvvIPXjk1pi18kmkp2QqNf4gc6XmB",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Steak",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "azj2wnr8",
+		"p855yjv8": "1.1.2",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/pjmangopie",
+				"name": "pjmangopie"
+			},
+			{ "url": "https://www.speedrun.com/user/vexicra", "name": "vexicra" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/y2jqon7z",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.0q5r66n1-wlekw94l.p127nnkq",
+		"time_adj": 1199.928,
+		"time_adj_s": "00:19:59.928",
+		"time": 1411.68,
+		"time_s": "PT23M31.680S",
+		"verifyDate": "2022-12-17T10:30:26Z",
+		"dishReduction": -1,
+		"videoUrl": "https://www.twitch.tv/videos/1681292975",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Salad",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "AZLYHABP",
+		"p855yjv8": "1.1.1",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/gc_monster7",
+				"name": "gc_monster7"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/ylnq452z",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.0q5r66n1-wlekw94l.z19n33kq",
+		"time_adj": 1213.7256249999998,
+		"time_adj_s": "00:20:13.725",
+		"time": 1142.33,
+		"time_s": "PT19M2.330S",
+		"verifyDate": "2023-01-12T08:09:47Z",
+		"dishReduction": -1,
+		"videoUrl": "http://twitch.tv/gc_monster7",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Salad",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "Azbvxcc7",
+		"p855yjv8": "1.1.2",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/Shawthing", "name": "Shawthing" },
+			{
+				"url": "https://www.speedrun.com/user/CaramelBob",
+				"name": "CaramelBob"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/yl18vkxm",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.zqo40021-wlekw94l.p127nnkq",
+		"time_adj": 1230.6470588235293,
+		"time_adj_s": "00:20:30.647",
+		"time": 1046.05,
+		"time_s": "PT17M26.050S",
+		"verifyDate": "2022-11-16T03:20:19Z",
+		"dishReduction": 1,
+		"videoUrl": "https://youtu.be/v1JAQBhQqgg",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Fish",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "AZFN4VEM",
+		"p855yjv8": "1.1.0"
+	},
+	{
+		"place": "3rd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/pjmangopie",
+				"name": "pjmangopie"
+			},
+			{ "url": "https://www.speedrun.com/user/vexicra", "name": "vexicra" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/me1wqd3y",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.rqv877w1-wlekw94l.p127nnkq",
+		"time_adj": 1236.4117647058824,
+		"time_adj_s": "00:20:36.411",
+		"time": 1050.95,
+		"time_s": "PT17M30.950S",
+		"verifyDate": "2022-10-05T03:31:04Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.youtube.com/watch?v=znHilUOhElA&ab_channel=pjmangopie",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Pies",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "BIGLEZ",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/PandaPenguin",
+				"name": "PandaPenguin"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/ydg0jlwy",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.013g003l-wlekw94l.z19n33kq",
+		"time_adj": 1237.00128125,
+		"time_adj_s": "00:20:37.001",
+		"time": 1369.69,
+		"time_s": "PT22M49.690S",
+		"verifyDate": "2023-01-03T11:26:53Z",
+		"dishReduction": -2,
+		"videoUrl": "https://www.youtube.com/watch?v=Ofa86kwjtbU",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Hot Dogs",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "AZ8C5FKN",
+		"p855yjv8": "1.1.2",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/CaramelBob",
+				"name": "CaramelBob"
+			},
+			{ "url": "https://www.speedrun.com/user/Shawthing", "name": "Shawthing" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/znqe0o3z",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.5lm5yy4q-wlekw94l.p127nnkq",
+		"time_adj": 1247.78,
+		"time_adj_s": "00:20:47.780",
+		"time": 1247.78,
+		"time_s": "PT20M47.780S",
+		"verifyDate": "2022-09-28T05:35:26Z",
+		"dishReduction": 0,
+		"videoUrl": "https://youtu.be/DJcc17se3EI",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Breakfast",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "A",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/PandaPenguin",
+				"name": "PandaPenguin"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/mro8dg7m",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.0q5r66n1-wlekw94l.z19n33kq",
+		"time_adj": 1251.9543749999998,
+		"time_adj_s": "00:20:51.954",
+		"time": 1178.31,
+		"time_s": "PT19M38.310S",
+		"verifyDate": "2022-12-16T11:55:55Z",
+		"dishReduction": -1,
+		"videoUrl": "https://www.youtube.com/watch?v=25HjOq8-tUs",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Salad",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "AZLYHABP",
+		"p855yjv8": "1.1.1",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/CaramelBob",
+				"name": "CaramelBob"
+			},
+			{ "url": "https://www.speedrun.com/user/Shawthing", "name": "Shawthing" },
+			{ "url": null, "name": "KingdomofKroz" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/znqej6vz",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.5lejooz1-wlekw94l.81p9jjkq",
+		"time_adj": 1285.56,
+		"time_adj_s": "00:21:25.560",
+		"time": 1606.95,
+		"time_s": "PT26M46.950S",
+		"verifyDate": "2022-09-28T05:37:42Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.youtube.com/watch?v=xDcOQc8U4aQ",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Pizza",
+		"wlekw94l": "Trio",
+		"5lyx19gn": "MTD8BYD9",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "4th",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/CaramelBob",
+				"name": "CaramelBob"
+			},
+			{ "url": "https://www.speedrun.com/user/Hornlet", "name": "Hornlet" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/m7x00xey",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.5lejooz1-wlekw94l.p127nnkq",
+		"time_adj": 1287.7,
+		"time_adj_s": "00:21:27.700",
+		"time": 1287.7,
+		"time_s": "PT21M27.700S",
+		"verifyDate": "2022-09-22T07:56:13Z",
+		"dishReduction": 0,
+		"videoUrl": "https://youtu.be/QjiYm3A9e88",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Pizza",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "A",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/pjmangopie",
+				"name": "pjmangopie"
+			},
+			{ "url": "https://www.speedrun.com/user/vexicra", "name": "vexicra" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/ylnq093z",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.jqz3yeg1-wlekw94l.p127nnkq",
+		"time_adj": 1289.7176470588236,
+		"time_adj_s": "00:21:29.717",
+		"time": 1096.26,
+		"time_s": "PT18M16.260S",
+		"verifyDate": "2023-01-14T04:42:08Z",
+		"dishReduction": 1,
+		"videoUrl": "https://youtu.be/nwt3BGxXP1s",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Turkey",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.1.2",
+		"onv4xmwn": "North Pole (2-4 Players)"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/DogKant", "name": "DogKant" },
+			{ "url": "https://www.speedrun.com/user/Truc", "name": "Truc" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/zg2ndg0y",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.0q5r66n1-wlekw94l.p127nnkq",
+		"time_adj": 1298.12,
+		"time_adj_s": "00:21:38.120",
+		"time": 1527.2,
+		"time_s": "PT25M27.200S",
+		"verifyDate": "2022-12-05T19:32:10Z",
+		"dishReduction": -1,
+		"videoUrl": "https://www.youtube.com/watch?v=AO7dfMJnCt0",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Salad",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "AZG67IX7",
+		"p855yjv8": "1.1.1",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/Kulutues", "name": "Kulutues" },
+			{ "url": "https://www.speedrun.com/user/switch227", "name": "switch227" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/z5xwn45y",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.81wygg5q-wlekw94l.p127nnkq",
+		"time_adj": 1320.217025,
+		"time_adj_s": "00:22:00.217",
+		"time": 1827.29,
+		"time_s": "PT30M27.290S",
+		"verifyDate": "2022-10-23T21:22:39Z",
+		"dishReduction": -2,
+		"videoUrl": "https://www.youtube.com/watch?v=PmuS5an0qpM",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Burgers",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "WMDQG6YR",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/redorangegamez",
+				"name": "redorangegamez"
+			},
+			{ "url": "https://www.speedrun.com/user/iForgot", "name": "iForgot" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/y9x341ey",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.81wygg5q-wlekw94l.p127nnkq",
+		"time_adj": 1320.910625,
+		"time_adj_s": "00:22:00.910",
+		"time": 1828.25,
+		"time_s": "PT30M28.250S",
+		"verifyDate": "2022-08-31T10:48:48Z",
+		"dishReduction": -2,
+		"videoUrl": "https://youtu.be/CxvXC-mEui0",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Burgers",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "J4W493G3",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/PandaPenguin",
+				"name": "PandaPenguin"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/ydg9po0y",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.5lm5yy4q-wlekw94l.z19n33kq",
+		"time_adj": 1321.2,
+		"time_adj_s": "00:22:01.200",
+		"time": 1056.96,
+		"time_s": "PT17M36.960S",
+		"verifyDate": "2023-01-11T04:28:33Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.youtube.com/watch?v=inwP38XEiZk",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Breakfast",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "AZDDVART",
+		"p855yjv8": "1.1.2",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/Matthehehew",
+				"name": "Matthehehew"
+			},
+			{ "url": "https://www.speedrun.com/user/BigRom101", "name": "BigRom101" },
+			{ "url": "https://www.speedrun.com/user/floubb", "name": "floubb" },
+			{
+				"url": "https://www.speedrun.com/user/LachieFroggie",
+				"name": "LachieFroggie"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/m7x6ww0y",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.81wygg5q-wlekw94l.xqkvddyl",
+		"time_adj": 1339.6305999999997,
+		"time_adj_s": "00:22:19.630",
+		"time": 2781.24,
+		"time_s": "PT46M21.240S",
+		"verifyDate": "2022-09-07T04:00:52Z",
+		"dishReduction": -2,
+		"videoUrl": "https://www.twitch.tv/videos/1583462434?collection=cJQHCXJGEhejLA",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Burgers",
+		"wlekw94l": "Quad",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/pjmangopie",
+				"name": "pjmangopie"
+			},
+			{ "url": "https://www.speedrun.com/user/vexicra", "name": "vexicra" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/y962rpry",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.4lxnzzr1-wlekw94l.p127nnkq",
+		"time_adj": 1347.29,
+		"time_adj_s": "00:22:27.290",
+		"time": 1347.29,
+		"time_s": "PT22M27.290S",
+		"verifyDate": "2022-12-17T10:32:09Z",
+		"dishReduction": 0,
+		"videoUrl": "https://youtu.be/NU-m2gLM6GA",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Steak",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "AZWV89JQ",
+		"p855yjv8": "1.1.1",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/pjmangopie",
+				"name": "pjmangopie"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/z1q3jjjy",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.81wygg5q-wlekw94l.z19n33kq",
+		"time_adj": 1365.2992187499997,
+		"time_adj_s": "00:22:45.299",
+		"time": 1511.75,
+		"time_s": "PT25M11.750S",
+		"verifyDate": "2022-12-05T07:52:06Z",
+		"dishReduction": -2,
+		"videoUrl": "https://www.twitch.tv/videos/1668982978",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Burgers",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "AZHX3BIZ",
+		"p855yjv8": "1.1.1",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/zzumiess", "name": "zzumiess" },
+			{ "url": "https://www.speedrun.com/user/spectater", "name": "spectater" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/z1q8p9gy",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.0q5r66n1-wlekw94l.p127nnkq",
+		"time_adj": 1369.8345,
+		"time_adj_s": "00:22:49.834",
+		"time": 1611.57,
+		"time_s": "PT26M51.570S",
+		"verifyDate": "2023-01-08T17:11:09Z",
+		"dishReduction": -1,
+		"videoUrl": "https://www.youtube.com/watch?v=OPLYcRVr7fY",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Salad",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "7VRVXVXG",
+		"p855yjv8": "1.1.2",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/N1ghtMan", "name": "N1ghtMan" },
+			{
+				"url": "https://www.speedrun.com/user/makemeblevota",
+				"name": "makemeblevota"
+			},
+			{ "url": "https://www.speedrun.com/user/Deventeex", "name": "Deventeex" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/z1g031wz",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.rqv877w1-wlekw94l.81p9jjkq",
+		"time_adj": 1369.8352941176472,
+		"time_adj_s": "00:22:49.835",
+		"time": 1455.45,
+		"time_s": "PT24M15.450S",
+		"verifyDate": "2022-11-02T11:29:10Z",
+		"dishReduction": 1,
+		"videoUrl": "https://youtu.be/oo2BlVJveDs",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Pies",
+		"wlekw94l": "Trio",
+		"5lyx19gn": "SQUISHY",
+		"p855yjv8": "1.0.4"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/zzumiess", "name": "zzumiess" },
+			{ "url": "https://www.speedrun.com/user/spectater", "name": "spectater" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/zpg1lggz",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.jqz3yeg1-wlekw94l.p127nnkq",
+		"time_adj": 1370.7647058823532,
+		"time_adj_s": "00:22:50.764",
+		"time": 1165.15,
+		"time_s": "PT19M25.150S",
+		"verifyDate": "2023-01-14T05:01:56Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.youtube.com/watch?v=9uVVCoL8cng",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Turkey",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "DT7RXJ9H",
+		"p855yjv8": "1.1.2",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/redorangegamez",
+				"name": "redorangegamez"
+			},
+			{ "url": "https://www.speedrun.com/user/iForgot", "name": "iForgot" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/z5xdq9gy",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.zqo40021-wlekw94l.p127nnkq",
+		"time_adj": 1371.7058823529412,
+		"time_adj_s": "00:22:51.705",
+		"time": 1165.95,
+		"time_s": "PT19M25.950S",
+		"verifyDate": "2022-08-31T10:46:23Z",
+		"dishReduction": 1,
+		"videoUrl": "https://youtu.be/IhaBb_kyk7g",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Fish",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "A",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "3rd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/CaramelBob",
+				"name": "CaramelBob"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/m3xw936m",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.0q5r66n1-wlekw94l.z19n33kq",
+		"time_adj": 1382.9712499999998,
+		"time_adj_s": "00:23:02.971",
+		"time": 1301.62,
+		"time_s": "PT21M41.620S",
+		"verifyDate": "2022-10-12T10:44:22Z",
+		"dishReduction": -1,
+		"videoUrl": "https://www.youtube.com/watch?v=UwCHny3oySw",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Salad",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "GBJRYM8X",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "4th",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/gc_monster7",
+				"name": "gc_monster7"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/yd1ldlxy",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.0q5r66n1-wlekw94l.z19n33kq",
+		"time_adj": 1393.8406249999998,
+		"time_adj_s": "00:23:13.840",
+		"time": 1311.85,
+		"time_s": "PT21M51.850S",
+		"verifyDate": "2022-10-09T06:17:05Z",
+		"dishReduction": -1,
+		"videoUrl": "http://twitch.tv/gc_monster7",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Salad",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "GBJRYM8X",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/CaramelBob",
+				"name": "CaramelBob"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/z1geo5wz",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.5lm5yy4q-wlekw94l.z19n33kq",
+		"time_adj": 1447.2875,
+		"time_adj_s": "00:24:07.287",
+		"time": 1157.83,
+		"time_s": "PT19M17.830S",
+		"verifyDate": "2022-11-16T03:24:09Z",
+		"dishReduction": 0,
+		"videoUrl": "https://youtu.be/QK0dRXAFzLE",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Breakfast",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "AZ56HIWX",
+		"p855yjv8": "1.1.0"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/pjmangopie",
+				"name": "pjmangopie"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/zxnvkkgm",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.5lejooz1-wlekw94l.z19n33kq",
+		"time_adj": 1452.3875,
+		"time_adj_s": "00:24:12.387",
+		"time": 1161.91,
+		"time_s": "PT19M21.910S",
+		"verifyDate": "2022-12-05T07:53:16Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.twitch.tv/videos/1668985911",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Pizza",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "AZ524TPK",
+		"p855yjv8": "1.1.1",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/PandaPenguin",
+				"name": "PandaPenguin"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/m7284qez",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.zqo40021-wlekw94l.z19n33kq",
+		"time_adj": 1452.514705882353,
+		"time_adj_s": "00:24:12.514",
+		"time": 987.71,
+		"time_s": "PT16M27.710S",
+		"verifyDate": "2023-01-11T04:29:18Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.youtube.com/watch?v=-Lh2duX2pRg",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Fish",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "AZ8ZZJ5P",
+		"p855yjv8": "1.1.2",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/redorangegamez",
+				"name": "redorangegamez"
+			},
+			{ "url": "https://www.speedrun.com/user/iForgot", "name": "iForgot" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/z1gpjx7z",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.5lejooz1-wlekw94l.p127nnkq",
+		"time_adj": 1453.46,
+		"time_adj_s": "00:24:13.460",
+		"time": 1453.46,
+		"time_s": "PT24M13.460S",
+		"verifyDate": "2022-09-05T12:11:08Z",
+		"dishReduction": 0,
+		"videoUrl": "https://youtu.be/MJZbPv4Aao4",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Pizza",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "3rd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/CaramelBob",
+				"name": "CaramelBob"
+			},
+			{ "url": "https://www.speedrun.com/user/Shawthing", "name": "Shawthing" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/z5xw6kny",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.4lxnzzr1-wlekw94l.p127nnkq",
+		"time_adj": 1453.6,
+		"time_adj_s": "00:24:13.600",
+		"time": 1453.6,
+		"time_s": "PT24M13.600S",
+		"verifyDate": "2022-10-23T21:24:23Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.youtube.com/watch?v=qjeYETyMVik",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Steak",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "GBJRYM8X",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/slightly", "name": "slightly" },
+			{ "url": "https://www.speedrun.com/user/Questie", "name": "Questie" },
+			{ "url": null, "name": "savagebeast" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/yw6joqnm",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.rqv877w1-wlekw94l.81p9jjkq",
+		"time_adj": 1467.9341176470589,
+		"time_adj_s": "00:24:27.934",
+		"time": 1559.68,
+		"time_s": "PT25M59.680S",
+		"verifyDate": "2022-09-04T06:26:39Z",
+		"dishReduction": 1,
+		"videoUrl": "https://youtu.be/UWEwh6DUjlI",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Pies",
+		"wlekw94l": "Trio",
+		"5lyx19gn": "SQUISHY",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/redorangegamez",
+				"name": "redorangegamez"
+			},
+			{ "url": "https://www.speedrun.com/user/iForgot", "name": "iForgot" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/m3x7ed4m",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.rqv877w1-wlekw94l.p127nnkq",
+		"time_adj": 1537.929411764706,
+		"time_adj_s": "00:25:37.929",
+		"time": 1307.24,
+		"time_s": "PT21M47.240S",
+		"verifyDate": "2022-08-31T10:47:40Z",
+		"dishReduction": 1,
+		"videoUrl": "https://youtu.be/tbn5rq2Ht50",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Pies",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "VJ8YQ93J",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/ambersz", "name": "ambersz" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/z5ejd95z",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.rqv877w1-wlekw94l.xqkvddyl",
+		"time_adj": 1541.1450980392158,
+		"time_adj_s": "00:25:41.145",
+		"time": 1964.96,
+		"time_s": "PT32M44.960S",
+		"verifyDate": "2022-12-30T07:01:04Z",
+		"dishReduction": 1,
+		"videoUrl": "https://youtu.be/aeCbmR0WOYw",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Pies",
+		"wlekw94l": "Quad",
+		"5lyx19gn": "AZSDRTD6",
+		"p855yjv8": "1.1.1",
+		"onv4xmwn": "Autumn"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/redorangegamez",
+				"name": "redorangegamez"
+			},
+			{ "url": "https://www.speedrun.com/user/iForgot", "name": "iForgot" },
+			{ "url": "https://www.speedrun.com/user/Keroia", "name": "Keroia" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/yjddovdy",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.5lm5yy4q-wlekw94l.81p9jjkq",
+		"time_adj": 1543.624,
+		"time_adj_s": "00:25:43.624",
+		"time": 1929.53,
+		"time_s": "PT32M9.530S",
+		"verifyDate": "2022-09-12T07:05:57Z",
+		"dishReduction": 0,
+		"videoUrl": "https://youtu.be/A7znASNQ-yw",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Breakfast",
+		"wlekw94l": "Trio",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "3rd",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/Shawthing", "name": "Shawthing" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/yl15842m",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.5lm5yy4q-wlekw94l.z19n33kq",
+		"time_adj": 1548.3125,
+		"time_adj_s": "00:25:48.312",
+		"time": 1238.65,
+		"time_s": "PT20M38.650S",
+		"verifyDate": "2022-10-31T05:20:32Z",
+		"dishReduction": 0,
+		"videoUrl": "https://youtu.be/xesZ8tgZr9o",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Breakfast",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "AZ56HIWX",
+		"p855yjv8": "1.1.0"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/CaramelBob",
+				"name": "CaramelBob"
+			},
+			{ "url": "https://www.speedrun.com/user/Shawthing", "name": "Shawthing" },
+			{ "url": null, "name": "KingdomofKroz" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/zq9dq69y",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.rqv877w1-wlekw94l.81p9jjkq",
+		"time_adj": 1555.1811764705885,
+		"time_adj_s": "00:25:55.181",
+		"time": 1652.38,
+		"time_s": "PT27M32.380S",
+		"verifyDate": "2022-09-29T11:31:53Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.youtube.com/watch?v=fCagAhPkCYg",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Pies",
+		"wlekw94l": "Trio",
+		"5lyx19gn": "GB3TBJGH",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/Hisakaki_Ui",
+				"name": "Hisakaki_Ui"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/yjd92jny",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.81wygg5q-wlekw94l.z19n33kq",
+		"time_adj": 1583.6116249999998,
+		"time_adj_s": "00:26:23.611",
+		"time": 1753.48,
+		"time_s": "PT29M13.480S",
+		"verifyDate": "2022-10-09T06:23:47Z",
+		"dishReduction": -2,
+		"videoUrl": "https://www.youtube.com/watch?v=hg8pcOb8AKg",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Burgers",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "HISAKAKI",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/Inkks", "name": "Inkks" },
+			{ "url": "https://www.speedrun.com/user/DasFenrir", "name": "DasFenrir" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/y6x9x86y",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.rqv877w1-wlekw94l.p127nnkq",
+		"time_adj": 1590.6470588235295,
+		"time_adj_s": "00:26:30.647",
+		"time": 1352.05,
+		"time_s": "PT22M32.050S",
+		"verifyDate": "2022-08-29T05:00:35Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.youtube.com/watch?v=M9Db-oxHHLo",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Pies",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/gc_monster7",
+				"name": "gc_monster7"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/zg2g6ndy",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.rqv877w1-wlekw94l.z19n33kq",
+		"time_adj": 1591.735294117647,
+		"time_adj_s": "00:26:31.735",
+		"time": 1082.38,
+		"time_s": "PT18M2.380S",
+		"verifyDate": "2023-01-16T11:43:35Z",
+		"dishReduction": 1,
+		"videoUrl": "http://twitch.tv/gc_monster7",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Pies",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "AZSQWY1J",
+		"p855yjv8": "1.1.2",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "3rd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/gc_monster7",
+				"name": "gc_monster7"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/zq9jg35y",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.81wygg5q-wlekw94l.z19n33kq",
+		"time_adj": 1591.9474687499999,
+		"time_adj_s": "00:26:31.947",
+		"time": 1762.71,
+		"time_s": "PT29M22.710S",
+		"verifyDate": "2022-09-20T16:18:19Z",
+		"dishReduction": -2,
+		"videoUrl": "https://www.youtube.com/watch?v=kqRKuwmgwLE",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Burgers",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "633TX9VY",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/pjmangopie",
+				"name": "pjmangopie"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/zxn41jkm",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.rqv877w1-wlekw94l.z19n33kq",
+		"time_adj": 1606.3676470588234,
+		"time_adj_s": "00:26:46.367",
+		"time": 1092.33,
+		"time_s": "PT18M12.330S",
+		"verifyDate": "2022-12-17T10:13:10Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.twitch.tv/videos/1681291460",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Pies",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "AZAU5OW5",
+		"p855yjv8": "1.1.1",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/bunnybrittany",
+				"name": "bunnybrittany"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/mkd19gly",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.5lm5yy4q-wlekw94l.z19n33kq",
+		"time_adj": 1623.4875,
+		"time_adj_s": "00:27:03.487",
+		"time": 1298.79,
+		"time_s": "PT21M38.790S",
+		"verifyDate": "2022-10-06T18:33:01Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.youtube.com/watch?v=R2qUDStsKIw",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Breakfast",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/gc_monster7",
+				"name": "gc_monster7"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/znq113lz",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.81wygg5q-wlekw94l.z19n33kq",
+		"time_adj": 1626.4558749999999,
+		"time_adj_s": "00:27:06.455",
+		"time": 1800.92,
+		"time_s": "PT30M0.920S",
+		"verifyDate": "2022-08-24T08:34:24Z",
+		"dishReduction": -2,
+		"videoUrl": "https://www.youtube.com/watch?v=xs_bhGwW1Hs",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Burgers",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "RJTW4TQM",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/PandaPenguin",
+				"name": "PandaPenguin"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/z5xd1ljy",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.5lejooz1-wlekw94l.z19n33kq",
+		"time_adj": 1633.75,
+		"time_adj_s": "00:27:13.750",
+		"time": 1307,
+		"time_s": "PT21M47S",
+		"verifyDate": "2022-08-27T20:44:39Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.youtube.com/watch?v=9-g2Aq5nsNQ",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Pizza",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "YOGSCAST",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/Kulutues", "name": "Kulutues" },
+			{ "url": "https://www.speedrun.com/user/switch227", "name": "switch227" },
+			{
+				"url": "https://www.speedrun.com/user/BuzzyNutkins",
+				"name": "BuzzyNutkins"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/y4g1902y",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.4lxnzzr1-wlekw94l.81p9jjkq",
+		"time_adj": 1642.4080000000001,
+		"time_adj_s": "00:27:22.408",
+		"time": 2053.01,
+		"time_s": "PT34M13.010S",
+		"verifyDate": "2022-12-19T01:31:36Z",
+		"dishReduction": 0,
+		"videoUrl": "https://youtu.be/ACJH0eZpJM4",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Steak",
+		"wlekw94l": "Trio",
+		"5lyx19gn": "7748Q879",
+		"p855yjv8": "1.1.1",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/zzumiess", "name": "zzumiess" },
+			{ "url": "https://www.speedrun.com/user/spectater", "name": "spectater" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/mro9no2m",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.jqz3yeg1-wlekw94l.p127nnkq",
+		"time_adj": 1666.5882352941176,
+		"time_adj_s": "00:27:46.588",
+		"time": 1416.6,
+		"time_s": "PT23M36.600S",
+		"verifyDate": "2023-01-03T11:24:32Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.youtube.com/watch?v=zaLaBnoHPbQ",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Turkey",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "V6YHG4YG",
+		"p855yjv8": "1.1.2",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/Shawthing", "name": "Shawthing" },
+			{
+				"url": "https://www.speedrun.com/user/CaramelBob",
+				"name": "CaramelBob"
+			},
+			{ "url": "https://www.speedrun.com/user/bsflames", "name": "bsflames" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/z5xvj0ny",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.zqo40021-wlekw94l.81p9jjkq",
+		"time_adj": 1680.6964705882353,
+		"time_adj_s": "00:28:00.696",
+		"time": 1785.74,
+		"time_s": "PT29M45.740S",
+		"verifyDate": "2022-09-01T08:33:24Z",
+		"dishReduction": 1,
+		"videoUrl": "https://youtu.be/bA4_VloRLHs",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Fish",
+		"wlekw94l": "Trio",
+		"5lyx19gn": "WERSD",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "3rd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/CaramelBob",
+				"name": "CaramelBob"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/yodr9g1m",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.rqv877w1-wlekw94l.z19n33kq",
+		"time_adj": 1700.470588235294,
+		"time_adj_s": "00:28:20.470",
+		"time": 1156.32,
+		"time_s": "PT19M16.320S",
+		"verifyDate": "2022-09-02T01:35:43Z",
+		"dishReduction": 1,
+		"videoUrl": "https://youtu.be/TKQi6s8oNu8",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Pies",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "H8M4AP89",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/ChuckRNorris",
+				"name": "ChuckRNorris"
+			},
+			{ "url": "https://www.speedrun.com/user/jtkepic", "name": "jtkepic" },
+			{ "url": null, "name": "Jawnee4" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/zpd2nxnz",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.5lm5yy4q-wlekw94l.81p9jjkq",
+		"time_adj": 1708.616,
+		"time_adj_s": "00:28:28.616",
+		"time": 2135.77,
+		"time_s": "PT35M35.770S",
+		"verifyDate": "2022-09-01T01:36:03Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.youtube.com/watch?v=hwcYKv5HQ2Q",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Breakfast",
+		"wlekw94l": "Trio",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/pjmangopie",
+				"name": "pjmangopie"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/y801wn5m",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.zqo40021-wlekw94l.z19n33kq",
+		"time_adj": 1713.3382352941176,
+		"time_adj_s": "00:28:33.338",
+		"time": 1165.07,
+		"time_s": "PT19M25.070S",
+		"verifyDate": "2022-12-24T10:25:31Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.twitch.tv/videos/1685626250",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Fish",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "AZIMAWGX",
+		"p855yjv8": "1.1.1",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "3rd",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/QQ33", "name": "QQ33" },
+			{ "url": "https://www.speedrun.com/user/bas0", "name": "bas0" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/z5xw0xjy",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.81wygg5q-wlekw94l.p127nnkq",
+		"time_adj": 1714.210725,
+		"time_adj_s": "00:28:34.210",
+		"time": 2372.61,
+		"time_s": "PT39M32.610S",
+		"verifyDate": "2022-10-20T00:19:55Z",
+		"dishReduction": -2,
+		"videoUrl": "https://youtu.be/l98mu4Spkqo",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Burgers",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "QGQ4MW8M",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/redorangegamez",
+				"name": "redorangegamez"
+			},
+			{ "url": "https://www.speedrun.com/user/iForgot", "name": "iForgot" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/zpd943gz",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.zqo40021-wlekw94l.p127nnkq",
+		"time_adj": 1715.6705882352942,
+		"time_adj_s": "00:28:35.670",
+		"time": 1458.32,
+		"time_s": "PT24M18.320S",
+		"verifyDate": "2022-09-05T12:08:28Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.youtube.com/watch?v=8S3IvM1FfNo",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Fish",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "64H96WHJ",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "3rd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/CaramelBob",
+				"name": "CaramelBob"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/y4x893dz",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.zqo40021-wlekw94l.z19n33kq",
+		"time_adj": 1740.2499999999998,
+		"time_adj_s": "00:29:00.249",
+		"time": 1183.37,
+		"time_s": "PT19M43.370S",
+		"verifyDate": "2022-08-31T14:54:20Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.youtube.com/watch?v=POQsyP_50ek",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Fish",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "A",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "4th",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/SwankyKoala",
+				"name": "SwankyKoala"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/m7x789wy",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.zqo40021-wlekw94l.z19n33kq",
+		"time_adj": 1745.5735294117646,
+		"time_adj_s": "00:29:05.573",
+		"time": 1186.99,
+		"time_s": "PT19M46.990S",
+		"verifyDate": "2022-08-28T08:59:57Z",
+		"dishReduction": 1,
+		"videoUrl": "https://youtu.be/teWSvsiGxsI",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Fish",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "A",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/pjmangopie",
+				"name": "pjmangopie"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/z5e5nqdz",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.4lxnzzr1-wlekw94l.z19n33kq",
+		"time_adj": 1772.1,
+		"time_adj_s": "00:29:32.100",
+		"time": 1417.68,
+		"time_s": "PT23M37.680S",
+		"verifyDate": "2022-12-05T07:43:06Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.twitch.tv/videos/1667209991",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Steak",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "AZZSHH4W",
+		"p855yjv8": "1.1.1",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/MarB", "name": "MarB" },
+			{
+				"url": "https://www.speedrun.com/user/NamelessSpeedrunner",
+				"name": "NamelessSpeedrunner"
+			},
+			{ "url": "https://www.speedrun.com/user/SPECHS", "name": "SPECHS" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/m72d719z",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.81wygg5q-wlekw94l.81p9jjkq",
+		"time_adj": 1777.7314799999997,
+		"time_adj_s": "00:29:37.731",
+		"time": 3075.66,
+		"time_s": "PT51M15.660S",
+		"verifyDate": "2023-01-14T05:04:44Z",
+		"dishReduction": -2,
+		"videoUrl": "https://www.youtube.com/watch?v=_FhGDm1QOGo",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Burgers",
+		"wlekw94l": "Trio",
+		"5lyx19gn": "M38R8WDD",
+		"p855yjv8": "1.1.2",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/pjmangopie",
+				"name": "pjmangopie"
+			},
+			{ "url": "https://www.speedrun.com/user/vexicra", "name": "vexicra" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/y801wnnm",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.814zjjjl-wlekw94l.p127nnkq",
+		"time_adj": 1819.094117647059,
+		"time_adj_s": "00:30:19.094",
+		"time": 1546.23,
+		"time_s": "PT25M46.230S",
+		"verifyDate": "2022-12-24T10:23:43Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.twitch.tv/videos/1685637807",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Stir Fry",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "AZNN2HQC",
+		"p855yjv8": "1.1.1",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/Nivrad00", "name": "Nivrad00" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/zpdw44gz",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.81wygg5q-wlekw94l.z19n33kq",
+		"time_adj": 1819.3543437499995,
+		"time_adj_s": "00:30:19.354",
+		"time": 2014.51,
+		"time_s": "PT33M34.510S",
+		"verifyDate": "2022-09-20T02:17:12Z",
+		"dishReduction": -2,
+		"videoUrl": "https://youtu.be/ybTWXkxfx5A",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Burgers",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "8XTRQWJX",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "5th",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/gc_monster7",
+				"name": "gc_monster7"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/yjdg1voy",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.0q5r66n1-wlekw94l.z19n33kq",
+		"time_adj": 1843.225,
+		"time_adj_s": "00:30:43.225",
+		"time": 1734.8,
+		"time_s": "PT28M54.800S",
+		"verifyDate": "2022-08-24T05:46:11Z",
+		"dishReduction": -1,
+		"videoUrl": "https://www.youtube.com/watch?v=1gZyf3ZVaXY&t=322s",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Salad",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "TITTIES",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/spectater", "name": "spectater" },
+			{ "url": null, "name": "zzumiess" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/yv86o6xm",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.4lxnzzr1-wlekw94l.p127nnkq",
+		"time_adj": 1900.5,
+		"time_adj_s": "00:31:40.500",
+		"time": 1900.5,
+		"time_s": "PT31M40.500S",
+		"verifyDate": "2022-12-28T02:48:40Z",
+		"dishReduction": 0,
+		"videoUrl": "https://youtu.be/SN4yeMEWLAs",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Steak",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.1.2",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "4th",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/PandaPenguin",
+				"name": "PandaPenguin"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/m7xd255y",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.rqv877w1-wlekw94l.z19n33kq",
+		"time_adj": 1911.75,
+		"time_adj_s": "00:31:51.750",
+		"time": 1299.99,
+		"time_s": "PT21M39.990S",
+		"verifyDate": "2022-08-25T05:45:20Z",
+		"dishReduction": 1,
+		"videoUrl": "https://youtu.be/SmWG8DR6E04",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Pies",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "H8M4AP89",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/PandaPenguin",
+				"name": "PandaPenguin"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/mro4px4m",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.4lxnzzr1-wlekw94l.z19n33kq",
+		"time_adj": 1919.4374999999998,
+		"time_adj_s": "00:31:59.437",
+		"time": 1535.55,
+		"time_s": "PT25M35.550S",
+		"verifyDate": "2023-01-11T10:00:54Z",
+		"dishReduction": 0,
+		"videoUrl": "https://youtu.be/30n_sQ0XF1Y",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Steak",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "D78XD7XX",
+		"p855yjv8": "1.1.2",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/Matthehehew",
+				"name": "Matthehehew"
+			},
+			{ "url": "https://www.speedrun.com/user/BigRom101", "name": "BigRom101" },
+			{ "url": "https://www.speedrun.com/user/floubb", "name": "floubb" },
+			{
+				"url": "https://www.speedrun.com/user/LachieFroggie",
+				"name": "LachieFroggie"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/yv0rqq4z",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.5lejooz1-wlekw94l.xqkvddyl",
+		"time_adj": 1923.3133333333333,
+		"time_adj_s": "00:32:03.313",
+		"time": 2884.97,
+		"time_s": "PT48M4.970S",
+		"verifyDate": "2022-09-07T03:53:02Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.twitch.tv/videos/1583462435?collection=cJQHCXJGEhejLA",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Pizza",
+		"wlekw94l": "Quad",
+		"5lyx19gn": "BELLE13",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/angrytetris",
+				"name": "angrytetris"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/yd1pd3jy",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.zqo40021-wlekw94l.z19n33kq",
+		"time_adj": 1940.764705882353,
+		"time_adj_s": "00:32:20.764",
+		"time": 1319.72,
+		"time_s": "PT21M59.720S",
+		"verifyDate": "2022-11-04T01:38:11Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.twitch.tv/videos/1642634489",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Fish",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.1.0"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/PandaPenguin",
+				"name": "PandaPenguin"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/mee95nqm",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.rqv877w1-wlekw94l.z19n33kq",
+		"time_adj": 1958.7058823529412,
+		"time_adj_s": "00:32:38.705",
+		"time": 1331.92,
+		"time_s": "PT22M11.920S",
+		"verifyDate": "2023-01-11T10:01:36Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.youtube.com/watch?v=0Z0nF4h3zA4",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Pies",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "D7T4GQ4M",
+		"p855yjv8": "1.1.2",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/Zebby", "name": "Zebby" },
+			{ "url": "https://www.speedrun.com/user/GameMouth", "name": "GameMouth" },
+			{ "url": null, "name": "TuckerAndrews17" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/m721kwez",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.81wygg5q-wlekw94l.81p9jjkq",
+		"time_adj": 1959.5124799999999,
+		"time_adj_s": "00:32:39.512",
+		"time": 3390.16,
+		"time_s": "PT56M30.160S",
+		"verifyDate": "2022-12-05T07:49:19Z",
+		"dishReduction": -2,
+		"videoUrl": "https://www.youtube.com/watch?v=rWC79DPA54U",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Burgers",
+		"wlekw94l": "Trio",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.1.0",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/PandaPenguin",
+				"name": "PandaPenguin"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/zqer305z",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.814zjjjl-wlekw94l.z19n33kq",
+		"time_adj": 1960.485294117647,
+		"time_adj_s": "00:32:40.485",
+		"time": 1333.13,
+		"time_s": "PT22M13.130S",
+		"verifyDate": "2022-12-19T01:34:45Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.youtube.com/watch?v=mJs_GxsE9JI",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Stir Fry",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "AZNN2HQC",
+		"p855yjv8": "1.1.1",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "3rd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/TheOneZachs",
+				"name": "TheOneZachs"
+			},
+			{ "url": null, "name": "Alliekat" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/yj8lwp7m",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.jqz3yeg1-wlekw94l.p127nnkq",
+		"time_adj": 2015.3035294117649,
+		"time_adj_s": "00:33:35.303",
+		"time": 1713.008,
+		"time_s": "PT28M33.008S",
+		"verifyDate": "2023-01-02T21:48:04Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.youtube.com/watch?v=Ic4LR--jHzU",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Turkey",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "WG8XH7D6",
+		"p855yjv8": "1.1.2",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/Kardi", "name": "Kardi" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/y8x534dm",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.5lejooz1-wlekw94l.z19n33kq",
+		"time_adj": 2023.075,
+		"time_adj_s": "00:33:43.075",
+		"time": 1618.46,
+		"time_s": "PT26M58.460S",
+		"verifyDate": "2022-11-20T14:24:15Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.twitch.tv/videos/1658104309",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Pizza",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.1.0"
+	},
+	{
+		"place": "3rd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/CaramelBob",
+				"name": "CaramelBob"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/m7xd834y",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.5lejooz1-wlekw94l.z19n33kq",
+		"time_adj": 2023.7875,
+		"time_adj_s": "00:33:43.787",
+		"time": 1619.03,
+		"time_s": "PT26M59.030S",
+		"verifyDate": "2022-08-24T04:13:16Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.youtube.com/watch?v=hcMAUKaz-80",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Pizza",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "speedrun",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/Kulutues", "name": "Kulutues" },
+			{ "url": "https://www.speedrun.com/user/switch227", "name": "switch227" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/m72qr45z",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.4lxnzzr1-wlekw94l.p127nnkq",
+		"time_adj": 2050.45,
+		"time_adj_s": "00:34:10.449",
+		"time": 2050.45,
+		"time_s": "PT34M10.450S",
+		"verifyDate": "2022-12-24T10:36:55Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.youtube.com/watch?v=H1iiA8GXHCI",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Steak",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "MG43RHDB",
+		"p855yjv8": "1.1.0",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/gc_monster7",
+				"name": "gc_monster7"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/y80d115m",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.814zjjjl-wlekw94l.z19n33kq",
+		"time_adj": 2075.617647058824,
+		"time_adj_s": "00:34:35.617",
+		"time": 1411.42,
+		"time_s": "PT23M31.420S",
+		"verifyDate": "2023-01-14T04:45:24Z",
+		"dishReduction": 1,
+		"videoUrl": "http://twitch.tv/gc_monster7",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Stir Fry",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "AZCXDIQW",
+		"p855yjv8": "1.1.2",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "4th",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/CaramelBob",
+				"name": "CaramelBob"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/zpd8w8rz",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.5lm5yy4q-wlekw94l.z19n33kq",
+		"time_adj": 2086.6,
+		"time_adj_s": "00:34:46.600",
+		"time": 1669.28,
+		"time_s": "PT27M49.280S",
+		"verifyDate": "2022-08-29T18:55:29Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.youtube.com/watch?v=1piUKXqBgb0",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Breakfast",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "QSADAS",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/redorangegamez",
+				"name": "redorangegamez"
+			},
+			{ "url": "https://www.speedrun.com/user/iForgot", "name": "iForgot" },
+			{ "url": "https://www.speedrun.com/user/Josk", "name": "Josk" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/z5xdl9ny",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.rqv877w1-wlekw94l.81p9jjkq",
+		"time_adj": 2145.7505882352943,
+		"time_adj_s": "00:35:45.750",
+		"time": 2279.86,
+		"time_s": "PT37M59.860S",
+		"verifyDate": "2022-08-30T12:47:54Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.youtube.com/watch?v=jgy90Sw-R5I",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Pies",
+		"wlekw94l": "Trio",
+		"5lyx19gn": "QV9JXBTV",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/N1ghtMan", "name": "N1ghtMan" },
+			{
+				"url": "https://www.speedrun.com/user/makemeblevota",
+				"name": "makemeblevota"
+			},
+			{ "url": "https://www.speedrun.com/user/Deventeex", "name": "Deventeex" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/zgq138vy",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.5lejooz1-wlekw94l.81p9jjkq",
+		"time_adj": 2168.288,
+		"time_adj_s": "00:36:08.288",
+		"time": 2710.36,
+		"time_s": "PT45M10.360S",
+		"verifyDate": "2022-11-02T11:28:29Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.youtube.com/watch?v=XHPEi-HQyq8",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Pizza",
+		"wlekw94l": "Trio",
+		"5lyx19gn": "ANUSVOLK",
+		"p855yjv8": "1.0.4"
+	},
+	{
+		"place": "4th",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/SwankyKoala",
+				"name": "SwankyKoala"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/yv012voz",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.5lejooz1-wlekw94l.z19n33kq",
+		"time_adj": 2171.2125,
+		"time_adj_s": "00:36:11.212",
+		"time": 1736.97,
+		"time_s": "PT28M56.970S",
+		"verifyDate": "2022-08-24T04:04:23Z",
+		"dishReduction": 0,
+		"videoUrl": "https://youtu.be/IsZt0TsIJEw",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Pizza",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "speedrun",
+		"p855yjv8": "1.0.4"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/MarB", "name": "MarB" },
+			{
+				"url": "https://www.speedrun.com/user/NamelessSpeedrunner",
+				"name": "NamelessSpeedrunner"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/zpg1klvz",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.zqo40021-wlekw94l.p127nnkq",
+		"time_adj": 2199.2705882352943,
+		"time_adj_s": "00:36:39.270",
+		"time": 1869.38,
+		"time_s": "PT31M9.380S",
+		"verifyDate": "2023-01-16T11:37:14Z",
+		"dishReduction": 1,
+		"videoUrl": "https://youtu.be/eUK7S7umAD0",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Fish",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.1.2",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/gc_monster7",
+				"name": "gc_monster7"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/zgqgx0jy",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.5lm5yy4q-wlekw94l.z19n33kq",
+		"time_adj": 2223.45,
+		"time_adj_s": "00:37:03.450",
+		"time": 1778.76,
+		"time_s": "PT29M38.760S",
+		"verifyDate": "2022-08-24T05:49:22Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.youtube.com/watch?v=DPULP6AJ4Mc&t=303s",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Breakfast",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "4th",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/Jonesy_Alr",
+				"name": "Jonesy_Alr"
+			},
+			{
+				"url": "https://www.speedrun.com/user/SmartFridg",
+				"name": "SmartFridg"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/y9x9wgvy",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.4lxnzzr1-wlekw94l.p127nnkq",
+		"time_adj": 2225.68,
+		"time_adj_s": "00:37:05.680",
+		"time": 2225.68,
+		"time_s": "PT37M5.680S",
+		"verifyDate": "2022-08-26T14:18:54Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.youtube.com/watch?v=HecJAOnl4d4",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Steak",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "A",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/MaeNyx", "name": "MaeNyx" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/yod1735m",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.5lejooz1-wlekw94l.z19n33kq",
+		"time_adj": 2262.05,
+		"time_adj_s": "00:37:42.050",
+		"time": 1809.64,
+		"time_s": "PT30M9.640S",
+		"verifyDate": "2022-11-22T09:03:51Z",
+		"dishReduction": 0,
+		"videoUrl": "https://youtu.be/lpEGQVHRjP0",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Pizza",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.1.0"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/pjmangopie",
+				"name": "pjmangopie"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/y4xl113z",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.4lxnzzr1-wlekw94l.z19n33kq",
+		"time_adj": 2320.1625,
+		"time_adj_s": "00:38:40.162",
+		"time": 1856.13,
+		"time_s": "PT30M56.130S",
+		"verifyDate": "2022-10-06T18:34:41Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.twitch.tv/videos/1610669751",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Steak",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "H8M4AP89",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "3rd",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/bsflames", "name": "bsflames" },
+			{ "url": "https://www.speedrun.com/user/lumina03", "name": "lumina03" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/mkdn2pvy",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.4lxnzzr1-wlekw94l.p127nnkq",
+		"time_adj": 2324.21,
+		"time_adj_s": "00:38:44.210",
+		"time": 2324.21,
+		"time_s": "PT38M44.210S",
+		"verifyDate": "2022-11-08T15:28:17Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.youtube.com/watch?v=QHjYoSp1zn0",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Steak",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.1.0"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/MisfitMaid",
+				"name": "MisfitMaid"
+			},
+			{ "url": "https://www.speedrun.com/user/ZyberLynx", "name": "ZyberLynx" },
+			{
+				"url": "https://www.speedrun.com/user/the4bestgame",
+				"name": "the4bestgame"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/meeorj3m",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.5lejooz1-wlekw94l.81p9jjkq",
+		"time_adj": 2328.88,
+		"time_adj_s": "00:38:48.880",
+		"time": 2911.1,
+		"time_s": "PT48M31.100S",
+		"verifyDate": "2023-01-01T11:04:01Z",
+		"dishReduction": 0,
+		"videoUrl": "https://youtu.be/GSPyFcfLoDM",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Pizza",
+		"wlekw94l": "Trio",
+		"5lyx19gn": "GYB9VJR9",
+		"p855yjv8": "1.1.2",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "3rd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/SingularByte",
+				"name": "SingularByte"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/y8x6dnwm",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.5lejooz1-wlekw94l.z19n33kq",
+		"time_adj": 2335.1,
+		"time_adj_s": "00:38:55.100",
+		"time": 1868.08,
+		"time_s": "PT31M8.080S",
+		"verifyDate": "2022-09-21T14:24:52Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.youtube.com/watch?v=LXf8V6aJXMc",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Pizza",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "V7JD4799",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/pjmangopie",
+				"name": "pjmangopie"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/yodx3qjm",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.rqv877w1-wlekw94l.z19n33kq",
+		"time_adj": 2395.955882352941,
+		"time_adj_s": "00:39:55.955",
+		"time": 1629.25,
+		"time_s": "PT27M9.250S",
+		"verifyDate": "2022-10-07T01:53:30Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.twitch.tv/videos/1611255293",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Pies",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "7GQJ3X8Y",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/Vermicious",
+				"name": "Vermicious"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/yv08g7ez",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.4lxnzzr1-wlekw94l.z19n33kq",
+		"time_adj": 2405.6749999999997,
+		"time_adj_s": "00:40:05.674",
+		"time": 1924.54,
+		"time_s": "PT32M4.540S",
+		"verifyDate": "2022-09-15T05:05:09Z",
+		"dishReduction": 0,
+		"videoUrl": "https://youtu.be/74a1O8gB4Ig",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Steak",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/mythos_", "name": "mythos_" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/z5e7d8gz",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.0q5r66n1-wlekw94l.z19n33kq",
+		"time_adj": 2490.415,
+		"time_adj_s": "00:41:30.415",
+		"time": 2343.92,
+		"time_s": "PT39M3.920S",
+		"verifyDate": "2022-12-20T10:56:25Z",
+		"dishReduction": -1,
+		"videoUrl": "https://www.youtube.com/watch?v=kz3_BszjRCE",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Salad",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.1.1",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/CaramelBob",
+				"name": "CaramelBob"
+			},
+			{ "url": "https://www.speedrun.com/user/Shawthing", "name": "Shawthing" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/m3xrwqqm",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.814zjjjl-wlekw94l.p127nnkq",
+		"time_adj": 2502.423529411765,
+		"time_adj_s": "00:41:42.423",
+		"time": 2127.06,
+		"time_s": "PT35M27.060S",
+		"verifyDate": "2022-08-26T07:27:10Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.youtube.com/watch?v=IL9jY-qihHY",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Stir Fry",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "WEQRDFSC",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "4th",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/JAGeezus", "name": "JAGeezus" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/mkde92vy",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.5lejooz1-wlekw94l.z19n33kq",
+		"time_adj": 2563.8625,
+		"time_adj_s": "00:42:43.862",
+		"time": 2051.09,
+		"time_s": "PT34M11.090S",
+		"verifyDate": "2022-09-01T01:37:49Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.youtube.com/watch?v=d9an8RjPtIQ",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Pizza",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "4H3TR8JJ",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/Vermicious",
+				"name": "Vermicious"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/y2ee7d6y",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.zqo40021-wlekw94l.z19n33kq",
+		"time_adj": 2583.176470588235,
+		"time_adj_s": "00:43:03.176",
+		"time": 1756.56,
+		"time_s": "PT29M16.560S",
+		"verifyDate": "2022-09-11T11:48:41Z",
+		"dishReduction": 1,
+		"videoUrl": "https://youtu.be/GoU2Fvc6OlA",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Fish",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "TJDXTHYY",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "2nd",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/RS_Mind", "name": "RS_Mind" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/y4x8wwnz",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.0q5r66n1-wlekw94l.z19n33kq",
+		"time_adj": 2610.7537499999994,
+		"time_adj_s": "00:43:30.753",
+		"time": 2457.18,
+		"time_s": "PT40M57.180S",
+		"verifyDate": "2022-09-01T08:31:27Z",
+		"dishReduction": -1,
+		"videoUrl": "https://youtu.be/cVoasL-CLrs",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Salad",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "5th",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/Deggradedrook",
+				"name": "Deggradedrook"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/yod6d6jm",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.5lejooz1-wlekw94l.z19n33kq",
+		"time_adj": 2723.75,
+		"time_adj_s": "00:45:23.750",
+		"time": 2179,
+		"time_s": "PT36M19S",
+		"verifyDate": "2022-08-29T04:26:51Z",
+		"dishReduction": 0,
+		"videoUrl": "https://youtu.be/BFGodsRJ3Ac",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Pizza",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "3rd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/redorangegamez",
+				"name": "redorangegamez"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/y8xj4g5m",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.rqv877w1-wlekw94l.z19n33kq",
+		"time_adj": 2743.9852941176473,
+		"time_adj_s": "00:45:43.985",
+		"time": 1865.91,
+		"time_s": "PT31M5.910S",
+		"verifyDate": "2022-09-04T11:10:02Z",
+		"dishReduction": 1,
+		"videoUrl": "https://youtu.be/L43Ox6ixvJA",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Pies",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "4Q7JRBJB",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "3rd",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/PlateUp", "name": "PlateUp" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/znqjoxvz",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.4lxnzzr1-wlekw94l.z19n33kq",
+		"time_adj": 2759.0125,
+		"time_adj_s": "00:45:59.012",
+		"time": 2207.21,
+		"time_s": "PT36M47.210S",
+		"verifyDate": "2022-09-26T03:09:31Z",
+		"dishReduction": 0,
+		"videoUrl": "https://youtu.be/13eQmw4bXaI",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Steak",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "A",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "4th",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/DariusJames",
+				"name": "DariusJames"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/m728474z",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.rqv877w1-wlekw94l.z19n33kq",
+		"time_adj": 2859.2941176470586,
+		"time_adj_s": "00:47:39.294",
+		"time": 1944.32,
+		"time_s": "PT32M24.320S",
+		"verifyDate": "2023-01-11T04:43:28Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.twitch.tv/videos/1703400778",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Pies",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.1.2",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "6th",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/MariOStorm5",
+				"name": "MariOStorm5"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/z5xelq5y",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.5lejooz1-wlekw94l.z19n33kq",
+		"time_adj": 2905.4624999999996,
+		"time_adj_s": "00:48:25.462",
+		"time": 2324.37,
+		"time_s": "PT38M44.370S",
+		"verifyDate": "2022-09-19T01:57:48Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.youtube.com/watch?v=H9vN098YVlQ",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Pizza",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "64966XW3",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "5th",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/Scadeur", "name": "Scadeur" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/y6odg3py",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.5lejooz1-wlekw94l.z19n33kq",
+		"time_adj": 2996.225,
+		"time_adj_s": "00:49:56.225",
+		"time": 2396.98,
+		"time_s": "PT39M56.980S",
+		"verifyDate": "2023-01-16T08:44:37Z",
+		"dishReduction": 0,
+		"videoUrl": "https://youtu.be/cKZBB0UocFU",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Pizza",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "AZ524TPK",
+		"p855yjv8": "1.1.2",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "4th",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/Ausapp", "name": "Ausapp" },
+			{
+				"url": "https://www.speedrun.com/user/ZOSG_NeverDieGaming",
+				"name": "ZOSG_NeverDieGaming"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/mkv83xly",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.jqz3yeg1-wlekw94l.p127nnkq",
+		"time_adj": 3079.0941176470587,
+		"time_adj_s": "00:51:19.094",
+		"time": 2617.23,
+		"time_s": "PT43M37.230S",
+		"verifyDate": "2023-01-01T11:05:27Z",
+		"dishReduction": 1,
+		"videoUrl": "https://youtu.be/XVMdEWo8puQ",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Turkey",
+		"wlekw94l": "Duo",
+		"5lyx19gn": "JW9T38XM",
+		"p855yjv8": "1.1.2",
+		"onv4xmwn": "Normal"
+	},
+	{
+		"place": "1st",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/gc_monster7",
+				"name": "gc_monster7"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/yjd55qdy",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.814zjjjl-wlekw94l.z19n33kq",
+		"time_adj": 3197.35294117647,
+		"time_adj_s": "00:53:17.352",
+		"time": 2174.2,
+		"time_s": "PT36M14.200S",
+		"verifyDate": "2022-08-29T03:58:03Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.youtube.com/watch?v=MWk11leyX78",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Stir Fry",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "J9JYYVYQ",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "5th",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/snailsHouse",
+				"name": "snailsHouse"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/y9xpdkey",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.rqv877w1-wlekw94l.z19n33kq",
+		"time_adj": 3221.7647058823527,
+		"time_adj_s": "00:53:41.764",
+		"time": 2190.8,
+		"time_s": "PT36M30.800S",
+		"verifyDate": "2022-10-17T10:05:29Z",
+		"dishReduction": 1,
+		"videoUrl": "https://youtu.be/yF3yWebjtSQ",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Pies",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "6th",
+		"players": [
+			{ "url": "https://www.speedrun.com/user/Chemoony", "name": "Chemoony" }
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/y4xgw0qz",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.rqv877w1-wlekw94l.z19n33kq",
+		"time_adj": 3226.926470588235,
+		"time_adj_s": "00:53:46.926",
+		"time": 2194.31,
+		"time_s": "PT36M34.310S",
+		"verifyDate": "2022-09-16T09:57:45Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.youtube.com/watch?v=xs5Ut5R12p8",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Pies",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "7th",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/craftykaname",
+				"name": "craftykaname"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/yl1xv23m",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.5lejooz1-wlekw94l.z19n33kq",
+		"time_adj": 3243.3624999999997,
+		"time_adj_s": "00:54:03.362",
+		"time": 2594.69,
+		"time_s": "PT43M14.690S",
+		"verifyDate": "2022-10-07T01:55:01Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.youtube.com/watch?v=cEv03zXO8Rg",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Pizza",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "J7V464RD",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "8th",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/MariOStorm5",
+				"name": "MariOStorm5"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/mrr6dr4m",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.5lejooz1-wlekw94l.z19n33kq",
+		"time_adj": 3288.0624999999995,
+		"time_adj_s": "00:54:48.062",
+		"time": 2630.45,
+		"time_s": "PT43M50.450S",
+		"verifyDate": "2022-09-04T07:08:12Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.youtube.com/watch?v=EH5yCk38Qwo&t=6s",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Pizza",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "7th",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/mrhotdogbun47",
+				"name": "mrhotdogbun47"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/z0l7qq4z",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.rqv877w1-wlekw94l.z19n33kq",
+		"time_adj": 3370.25,
+		"time_adj_s": "00:56:10.250",
+		"time": 2291.77,
+		"time_s": "PT38M11.770S",
+		"verifyDate": "2022-08-30T03:23:16Z",
+		"dishReduction": 1,
+		"videoUrl": "https://www.youtube.com/watch?v=6nvtQ7Bq8Z8",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Pies",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "J6DMMBG6",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "9th",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/TopherKirch",
+				"name": "TopherKirch"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/m7x2qo5y",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.5lejooz1-wlekw94l.z19n33kq",
+		"time_adj": 3499.1375,
+		"time_adj_s": "00:58:19.137",
+		"time": 2799.31,
+		"time_s": "PT46M39.310S",
+		"verifyDate": "2022-09-15T05:08:10Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.twitch.tv/videos/1591250753",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Pizza",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "5th",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/Danger_Russ",
+				"name": "Danger_Russ"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/z0lo6q9z",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.9qj3rrgl-wl3d19v8.5lm5yy4q-wlekw94l.z19n33kq",
+		"time_adj": 3523.7687499999997,
+		"time_adj_s": "00:58:43.768",
+		"time": 2819.015,
+		"time_s": "PT46M59.015S",
+		"verifyDate": "2022-09-01T21:19:40Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.youtube.com/watch?v=_psbFlAyavg",
+		"2lg135el": "Set Seed",
+		"wl3d19v8": "Breakfast",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "YOGSCAST",
+		"p855yjv8": "1.0.5"
+	},
+	{
+		"place": "3rd",
+		"players": [
+			{
+				"url": "https://www.speedrun.com/user/SporkSlinger",
+				"name": "SporkSlinger"
+			}
+		],
+		"weblink": "https://www.speedrun.com/plateup/run/m3x6xegm",
+		"leaderboardUrl": "https://www.speedrun.com/plateup?x=z275n0gk-2lg135el.jq6dmm71-wl3d19v8.4lxnzzr1-wlekw94l.z19n33kq",
+		"time_adj": 3789.2999999999997,
+		"time_adj_s": "01:03:09.299",
+		"time": 3031.44,
+		"time_s": "PT50M31.440S",
+		"verifyDate": "2022-09-03T07:49:33Z",
+		"dishReduction": 0,
+		"videoUrl": "https://www.youtube.com/watch?v=dfFnQB0peg0",
+		"2lg135el": "Random Seed",
+		"wl3d19v8": "Steak",
+		"wlekw94l": "Solo",
+		"5lyx19gn": "-",
+		"p855yjv8": "1.0.5"
+	}
+]
