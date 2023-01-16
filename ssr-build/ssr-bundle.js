@@ -13948,65 +13948,21 @@ preact_router_es_Router.exec = exec;
 // EXTERNAL MODULE: ./routes/home/index.tsx
 var home = __webpack_require__("KyR8");
 
-// EXTERNAL MODULE: ../node_modules/preact/hooks/dist/hooks.module.js
-var hooks_module = __webpack_require__("QRet");
-
-// CONCATENATED MODULE: ./routes/profile/index.tsx
-function _slicedToArray(arr, i) { return _arrayWithHoles(arr) || _iterableToArrayLimit(arr, i) || _unsupportedIterableToArray(arr, i) || _nonIterableRest(); }
-function _nonIterableRest() { throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
-function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(o); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
-function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len = arr.length; for (var i = 0, arr2 = new Array(len); i < len; i++) arr2[i] = arr[i]; return arr2; }
-function _iterableToArrayLimit(arr, i) { var _i = null == arr ? null : "undefined" != typeof Symbol && arr[Symbol.iterator] || arr["@@iterator"]; if (null != _i) { var _s, _e, _x, _r, _arr = [], _n = !0, _d = !1; try { if (_x = (_i = _i.call(arr)).next, 0 === i) { if (Object(_i) !== _i) return; _n = !1; } else for (; !(_n = (_s = _x.call(_i)).done) && (_arr.push(_s.value), _arr.length !== i); _n = !0); } catch (err) { _d = !0, _e = err; } finally { try { if (!_n && null != _i.return && (_r = _i.return(), Object(_r) !== _r)) return; } finally { if (_d) throw _e; } } return _arr; } }
-function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
-
-
-// Note: `user` comes from the URL, courtesy of our router
-var profile_Profile = function Profile(_ref) {
-  var user = _ref.user;
-  var _useState = Object(hooks_module["k" /* useState */])(Date.now()),
-    _useState2 = _slicedToArray(_useState, 2),
-    time = _useState2[0],
-    setTime = _useState2[1];
-  var _useState3 = Object(hooks_module["k" /* useState */])(10),
-    _useState4 = _slicedToArray(_useState3, 2),
-    count = _useState4[0],
-    setCount = _useState4[1];
-  Object(hooks_module["d" /* useEffect */])(function () {
-    var timer = setInterval(function () {
-      return setTime(Date.now());
-    }, 1000);
-    return function () {
-      return clearInterval(timer);
-    };
-  }, []);
-  return Object(external_preact_["h"])("div", null, Object(external_preact_["h"])("h1", null, "Profile: ", user), Object(external_preact_["h"])("p", null, "This is the user profile for a user named ", user, "."), Object(external_preact_["h"])("div", null, "Current time: ", new Date(time).toLocaleString()), Object(external_preact_["h"])("p", null, Object(external_preact_["h"])("button", {
-    onClick: function onClick() {
-      return setCount(function (count) {
-        return count + 1;
-      });
-    }
-  }, "Click Me"), ' ', "Clicked ", count, " times."));
-};
-/* harmony default export */ var profile = (profile_Profile);
 // CONCATENATED MODULE: ./components/app.tsx
 
 
 // Code-splitting is automated for `routes` directory
 
-
+var base = '/plateup-leaderboard';
 var app_App = function App() {
   return Object(external_preact_["h"])("div", {
     id: "app"
   }, Object(external_preact_["h"])("main", null, Object(external_preact_["h"])(preact_router_es_Router, null, Object(external_preact_["h"])(preact_router_es_Route, {
-    path: "/",
+    path: base,
     component: home["a" /* default */]
   }), Object(external_preact_["h"])(preact_router_es_Route, {
-    path: "/profile/",
-    component: profile,
-    user: "me"
-  }), Object(external_preact_["h"])(preact_router_es_Route, {
-    path: "/profile/:user",
-    component: profile
+    default: true,
+    component: home["a" /* default */]
   }))));
 };
 /* harmony default export */ var app = (app_App);
