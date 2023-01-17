@@ -50,6 +50,9 @@ body {
 	overflow-x: scroll;
 	max-height: calc(100vh - 5rem);
 }
+td {
+	padding: 0 10px;
+}
 
 body {
 	max-width: 100vw;
@@ -132,4 +135,4 @@ tbody tr:nth-child(odd) {
 	background-color: rgba(50, 50, 50, .3);
 }
 
-/*# sourceMappingURL=ssr-bundle.c39ed.css.map*/
+/*# sourceMappingURL=ssr-bundle.36ec1.css.map*/
