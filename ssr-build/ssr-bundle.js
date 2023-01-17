@@ -293,7 +293,7 @@ function _processData() {
         time_s: primary,
         verifyDate: verifyDate,
         dishReduction: dishReduction,
-        videoUrl: videos.links[0].uri
+        videoUrl: videos.links.at(-1).uri
       }, values);
       for (var _i2 = 0, _Object$keys = Object.keys(values); _i2 < _Object$keys.length; _i2++) {
         var key = _Object$keys[_i2];
@@ -8704,7 +8704,7 @@ var VERSION = "3.2.1";
 
 "use strict";
 // extracted by mini-css-extract-plugin
-/* harmony default export */ __webpack_exports__["a"] = ({"home":"home__uRcqa","resource":"resource__reFLt","cursor-pointer":"cursor-pointer__b9crC","select-none":"select-none__9PhKr"});
+/* harmony default export */ __webpack_exports__["a"] = ({"table-wrapper":"table-wrapper__1Zhb5","home":"home__uRcqa","resource":"resource__reFLt"});
 
 /***/ }),
 
@@ -8797,7 +8797,11 @@ var columnDefs = [columnHelper.accessor('place', {
     var time_adj_s = _ref.row.original.time_adj_s;
     return time_adj_s;
   },
-  header: 'Time (adjusted for player count and main dish)',
+  header: function header() {
+    return Object(preact__WEBPACK_IMPORTED_MODULE_2__["h"])("div", {
+      title: "adjusted for player count and main dish modifiers"
+    }, "Adj. Time");
+  },
   sortDescFirst: false
 }), columnHelper.accessor('verifyDate', {
   cell: function cell(props) {
@@ -8873,7 +8877,9 @@ var Home = function Home() {
   });
   return Object(preact__WEBPACK_IMPORTED_MODULE_2__["h"])("div", {
     class: _style_css__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"].home
-  }, Object(preact__WEBPACK_IMPORTED_MODULE_2__["h"])("h1", null, "All PlateUp! Speedruns"), Object(preact__WEBPACK_IMPORTED_MODULE_2__["h"])("table", null, Object(preact__WEBPACK_IMPORTED_MODULE_2__["h"])("thead", null, table.getHeaderGroups().map(function (headerGroup) {
+  }, Object(preact__WEBPACK_IMPORTED_MODULE_2__["h"])("h1", null, "All PlateUp! Speedruns"), Object(preact__WEBPACK_IMPORTED_MODULE_2__["h"])("div", {
+    className: _style_css__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"]['table-wrapper']
+  }, Object(preact__WEBPACK_IMPORTED_MODULE_2__["h"])("table", null, Object(preact__WEBPACK_IMPORTED_MODULE_2__["h"])("thead", null, table.getHeaderGroups().map(function (headerGroup) {
     return Object(preact__WEBPACK_IMPORTED_MODULE_2__["h"])("tr", {
       key: headerGroup.id
     }, headerGroup.headers.map(function (header) {
@@ -8897,7 +8903,7 @@ var Home = function Home() {
         key: cell.id
       }, Object(_tanstack_react_table__WEBPACK_IMPORTED_MODULE_7__[/* flexRender */ "a"])(cell.column.columnDef.cell, cell.getContext()));
     }));
-  }))));
+  })))));
 };
 /* harmony default export */ __webpack_exports__["a"] = (Home);
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__("HteQ")["Fragment"]))

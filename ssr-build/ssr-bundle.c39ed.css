@@ -27,9 +27,10 @@ body {
 #app > main {
 	display: -ms-flexbox;
 	display: flex;
-	padding-top: 3.5rem;
+	/* padding-top: 3.5rem; */
 	margin: 0 auto;
-	min-height: calc(100vh - 3.5rem);
+	/* min-height: calc(100vh - 3.5rem); */
+		min-height: calc(100vh);
 	max-width: 1280px;
 	-ms-flex-align: center;
 	    align-items: center;
@@ -43,8 +44,19 @@ body {
 	}
 }
 
+/* This never works for some reason??????? */
+.table-wrapper__1Zhb5 {
+	max-width: 100vw;
+	overflow-x: scroll;
+	max-height: calc(100vh - 5rem);
+}
+
+body {
+	max-width: 100vw;
+}
 .home__uRcqa {
 	text-align: center;
+	height: 100vh;
 }
 
 .home__uRcqa img {
@@ -101,6 +113,7 @@ body {
 
 table {
 	position: relative;
+	border-spacing: 0;
 }
 
 th {
@@ -109,11 +122,14 @@ th {
 	top: 0px;
 	/* padding:20px; */
 	background-color: rgba(var(--bg-color), .8);
-	box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4);
 }
 
-.cursor-pointer__b9crC.select-none__9PhKr {
-  padding: 20px;
+a {
+	line-height: 24px;
 }
 
-/*# sourceMappingURL=ssr-bundle.f5b78.css.map*/
+tbody tr:nth-child(odd) {
+	background-color: rgba(50, 50, 50, .3);
+}
+
+/*# sourceMappingURL=ssr-bundle.c39ed.css.map*/
