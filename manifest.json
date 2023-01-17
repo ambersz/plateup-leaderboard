@@ -1,6 +1,6 @@
 {
-	"name": "plateup-leaderboard",
-	"short_name": "plateup-leaderboard",
+	"name": "PlateUp! Leaderboard",
+	"short_name": "P! Leaderboard",
 	"start_url": "/",
 	"display": "standalone",
 	"orientation": "portrait",
