@@ -90,7 +90,11 @@ const columnDefs = [
 				original: { time_adj_s },
 			},
 		}) => time_adj_s,
-		header: 'Time (adjusted for player count and main dish)',
+		header: () => (
+			<div title="adjusted for player count and main dish modifiers">
+				Adj. Time
+			</div>
+		),
 		sortDescFirst: false,
 	}),
 	columnHelper.accessor('verifyDate', {
@@ -163,59 +167,61 @@ const Home = () => {
 	return (
 		<div class={style.home}>
 			<h1>All PlateUp! Speedruns</h1>
-			<table>
-				<thead>
-					{table.getHeaderGroups().map((headerGroup) => (
-						<tr key={headerGroup.id}>
-							{headerGroup.headers.map((header) => {
-								return (
-									<th key={header.id} colSpan={header.colSpan}>
-										{header.isPlaceholder ? null : (
-											<>
-												<div
-													{...{
-														className: header.column.getCanSort()
-															? 'cursor-pointer select-none'
-															: '',
-														onClick: header.column.getToggleSortingHandler(),
-													}}
-												>
-													{flexRender(
-														header.column.columnDef.header,
-														header.getContext()
-													)}
-													{{
-														asc: ' 🔼',
-														desc: ' 🔽',
-													}[header.column.getIsSorted() as string] ?? ' ⏹️'}
-												</div>
-											</>
-										)}
-									</th>
-								);
-							})}
-						</tr>
-					))}
-				</thead>
-				<tbody>
-					{table.getRowModel().rows.map((row) => {
-						return (
-							<tr key={row.id}>
-								{row.getVisibleCells().map((cell) => {
+			<div className={style['table-wrapper']}>
+				<table>
+					<thead>
+						{table.getHeaderGroups().map((headerGroup) => (
+							<tr key={headerGroup.id}>
+								{headerGroup.headers.map((header) => {
 									return (
-										<td key={cell.id}>
-											{flexRender(
-												cell.column.columnDef.cell,
-												cell.getContext()
+										<th key={header.id} colSpan={header.colSpan}>
+											{header.isPlaceholder ? null : (
+												<>
+													<div
+														{...{
+															className: header.column.getCanSort()
+																? 'cursor-pointer select-none'
+																: '',
+															onClick: header.column.getToggleSortingHandler(),
+														}}
+													>
+														{flexRender(
+															header.column.columnDef.header,
+															header.getContext()
+														)}
+														{{
+															asc: ' 🔼',
+															desc: ' 🔽',
+														}[header.column.getIsSorted() as string] ?? ' ⏹️'}
+													</div>
+												</>
 											)}
-										</td>
+										</th>
 									);
 								})}
 							</tr>
-						);
-					})}
-				</tbody>
-			</table>
+						))}
+					</thead>
+					<tbody>
+						{table.getRowModel().rows.map((row) => {
+							return (
+								<tr key={row.id}>
+									{row.getVisibleCells().map((cell) => {
+										return (
+											<td key={cell.id}>
+												{flexRender(
+													cell.column.columnDef.cell,
+													cell.getContext()
+												)}
+											</td>
+										);
+									})}
+								</tr>
+							);
+						})}
+					</tbody>
+				</table>
+			</div>
 		</div>
 	);
 };

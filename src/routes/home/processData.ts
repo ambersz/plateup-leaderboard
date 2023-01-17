@@ -137,7 +137,7 @@ async function processData() {
 					time_s: primary,
 					verifyDate,
 					dishReduction,
-					videoUrl: videos.links[0].uri,
+					videoUrl: videos.links.at(-1).uri,
 					...values,
 				};
 				for (let key of Object.keys(values)) {
