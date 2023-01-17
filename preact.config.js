@@ -1,4 +1,5 @@
 export default (config, env, helpers) => {
+  // console.log(env);
   if (!env.production) {
     console.log('dev')
     config.output.publicPath = '/';
