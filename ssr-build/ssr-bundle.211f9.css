@@ -44,7 +44,6 @@ body {
 	}
 }
 
-/* This never works for some reason??????? */
 .table-wrapper__1Zhb5 {
 	max-width: 100vw;
 	overflow-x: scroll;
@@ -135,4 +134,4 @@ tbody tr:nth-child(odd) {
 	background-color: rgba(50, 50, 50, .3);
 }
 
-/*# sourceMappingURL=ssr-bundle.36ec1.css.map*/
+/*# sourceMappingURL=ssr-bundle.211f9.css.map*/
